@@ -58,7 +58,6 @@ h1 {
     background-color: #333;
 }
 
-.social-links a:hover {
-    transform: scale(1.05);
-    opacity: 0.9;
+.social-links a.threads {
+    background-color: #333;
 }

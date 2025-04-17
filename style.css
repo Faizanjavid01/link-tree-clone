@@ -61,3 +61,18 @@ h1 {
 .social-links a.threads {
     background-color: #0e0d0d;
 }
+.twitter:hover{
+    box-shadow: 2px 2px 8px blue;
+}
+.instagram:hover{
+    box-shadow: 2px 2px 8px purple;
+}
+.linkedin:hover{
+    box-shadow: 2px 2px 8px #0077B5;
+}
+.github:hover{
+    box-shadow: 2px 2px 8px black;
+}
+.threads:hover{
+    box-shadow: 2px 2px 8px black;
+}
